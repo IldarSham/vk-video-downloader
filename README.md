@@ -1,5 +1,6 @@
 # vk-video-downloader
 Shortcut for iOS to download videos from VK
+https://youtu.be/ih71o3_J2f0
 
 ## Install       
 1. Install [Scriptable](https://apps.apple.com/ru/app/scriptable/id1405459188)
